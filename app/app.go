@@ -3,15 +3,10 @@ package main
 import "fmt"
 
 func main() {
-  customer := getCustomerData(1)
-  fmt.Println(customer)
-}
 
-func getCustomerData(customerId int) (customer string) {
-  var firstName = "Abhishek"
-  lastName := "Sharma"
+  customers := getCustomers()
 
-  fullname := firstName + " " + lastName
-
-  return fullname
+  for _, customer := range customers {
+    fmt.Println(customer)
+  }
 }
