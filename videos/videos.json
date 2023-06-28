@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "title": "Title 1",
+    "description": "Description 1",
+    "imageurl": "https://image.url1",
+    "url": "https://url1"
+  },
+  {
+    "id": "2",
+    "title": "Title 2",
+    "description": "Description 2",
+    "imageurl": "https://image.url2",
+    "url": "https://url2"
+  }
+]
