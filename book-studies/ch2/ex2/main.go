@@ -1,13 +1,13 @@
-package main
+// package main
 
-import "fmt"
+// import "fmt"
 
-func main() {
-	const value = 10
-	i := value
-	var f float64 = value
-	var f float64 = value
-	var f float64 = value
-	fmt.Println(i)
-	fmt.Println(f)
-}
+// func main() {
+// 	const value = 10
+// 	i := value
+// 	var f float64 = value
+// 	var f float64 = value
+// 	var f float64 = value
+// 	fmt.Println(i)
+// 	fmt.Println(f)
+// }
